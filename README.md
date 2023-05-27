@@ -1,1 +1,3 @@
 # python-module-00
+
+This first module of Python is designed to get started with the Python language. You will study basic setup, variables, data types, functions, ...
